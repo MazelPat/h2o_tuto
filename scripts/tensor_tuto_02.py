@@ -7,7 +7,7 @@ from tensorflow.python.keras.layers import Dense
 print(tf.__version__)
 
 # number iterations
-ITER = 4000
+ITER = 2000
 
 # X = input of our 3 input XOR gate
 # set up the inputs of the neural network (right from the table)
